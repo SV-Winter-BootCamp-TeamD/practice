@@ -2,7 +2,7 @@
 name: Bug report
 about: 오류 해결 과정 기록
 title: "[BugFix]"
-labels: bug
+labels: "\U0001F6E0️ BugFix"
 assignees: ''
 
 ---
